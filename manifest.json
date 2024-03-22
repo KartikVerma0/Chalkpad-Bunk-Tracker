@@ -1,0 +1,19 @@
+{
+	"manifest_version": 3,
+	"name": "Chalkpad Bunk Counter",
+	"description": "This extension shows you how many classes you can bunk if your attandance is above target attandance",
+	"version": "1",
+	"content_scripts": [
+		{
+			"matches": [
+				"https://punjab.chitkara.edu.in//Interface/Student/index.php"
+			],
+			"js": [
+				"script.js"
+			]
+		}
+	],
+	"icons": {
+		"512": "machine.png"
+	}
+}
