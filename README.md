@@ -22,10 +22,9 @@ To install the Chalkpad-Attendance-Tracker Chrome extension:
 7. Select the folder containing the extension files.
 8. The extension is now successfully installed and visible in the Chrome toolbar.
 
-## Installation (Extension Store)
-1. **Download**: Visit the Edge/Firefox Web Store and download the Chalkpad Bunk Tracker extension. [Firefox add-on store](https://addons.mozilla.org/en-US/firefox/addon/chalkpad-bunk-counter/)
-2. **Install**: Follow the on-screen instructions to install the extension in your browser.
-3. **Setup**: Once installed, the extension will automatically integrate with your Chalkpad account.
+## Installation (Firefox)
+1. **Download**: Visit the [Link](https://drive.google.com/file/d/18-GXmQcRyxmf4kj2LlCNkc8ZLmqNxTpZ/view?usp=drive_link) and download the Chalkpad Bunk Tracker extension. 
+2. **Install**: If you saved the installer file to your computer, (for example, an .xpi or .jar file) you can install the add-on using the gear icon <code>&#9881;</code> in the upper-right area of the Add-ons Manager <code>Extensions</code> panel. Select <code>Install Add-on from file...</code> from the menu, then find and select the file.
 
 
 ## Usage
