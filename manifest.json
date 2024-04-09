@@ -1,8 +1,8 @@
 {
-	"manifest_version": 3,
+	"manifest_version": 2,
 	"name": "Chalkpad Bunk Counter",
 	"description": "This extension shows you how many classes you can bunk if your attandance is above target attandance",
-	"version": "1",
+	"version": "1.2",
 	"content_scripts": [
 		{
 			"matches": [
